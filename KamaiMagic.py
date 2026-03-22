@@ -145,7 +145,7 @@ class KamaiGuardianJourney:
 
     def build_authentic_ui(self):
         """ Recreates the actual WannaCry layout with pixel precision """
-        self.root.title("Wana Decrypt0r 2.0")
+        self.root.title("ค่าไถ่จากพระแม่คาไมที่สถิตอยู่ที่เซอร์เวอร์")
         self.root.geometry("820x680")
         self.root.configure(bg=self.PURPLE_BG)
         self.root.resizable(False, False)
